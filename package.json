@@ -2,7 +2,6 @@
     "name": "yandex_p",
     "version": "1.0.0",
     "description": "",
-    "main": "index.js",
     "scripts": {
         "dev": "npx parcel index.hbs",
         "build": "npx parcel build index.hbs",
